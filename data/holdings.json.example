@@ -1,0 +1,38 @@
+{
+  "_comment": "Copy this file to holdings.json and fill in your actual positions.",
+  "_instructions": [
+    "symbol: Ticker (e.g. AAPL, VTI)",
+    "description: Full name (optional)",
+    "shares: Number of shares you own",
+    "avg_cost: Your average cost per share",
+    "current_price: Today's price (optional — will be fetched if omitted)",
+    "account_type: Individual | Roth IRA | Traditional IRA | 401k"
+  ],
+  "cash": 0.00,
+  "holdings": [
+    {
+      "symbol": "VTI",
+      "description": "Vanguard Total Stock Market ETF",
+      "shares": 15,
+      "avg_cost": 216.67,
+      "current_price": 245.50,
+      "account_type": "Individual"
+    },
+    {
+      "symbol": "AAPL",
+      "description": "Apple Inc",
+      "shares": 10,
+      "avg_cost": 160.00,
+      "current_price": 195.89,
+      "account_type": "Individual"
+    },
+    {
+      "symbol": "MSFT",
+      "description": "Microsoft Corp",
+      "shares": 5,
+      "avg_cost": 300.00,
+      "current_price": 415.32,
+      "account_type": "Individual"
+    }
+  ]
+}
