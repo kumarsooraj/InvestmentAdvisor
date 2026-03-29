@@ -1,0 +1,47 @@
+name: 💰 Investment Analysis
+
+on:
+  # Run on the 1st and 15th of every month at 9am UTC
+  schedule:
+    - cron: '0 9 1,15 * *'
+  # Also allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      amount:
+        description: 'Investment amount in dollars'
+        required: false
+        default: '500'
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit the report back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          SETUPTOOLS_USE_DISTUTILS=stdlib pip install multitasking
+          pip install -r requirements.txt
+
+      - name: Run investment analysis
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INVESTMENT_AMOUNT: ${{ github.event.inputs.amount || '500' }}
+        run: python main.py run
+
+      - name: Commit report to repository
+        run: |
+          git config user.name  "Investment Advisor Bot"
+          git config user.email "bot@noreply.github.com"
+          git add data/reports/
+          git diff --staged --quiet || git commit -m "📊 Investment analysis report $(date +%Y-%m-%d)"
+          git push

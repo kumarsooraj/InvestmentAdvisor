@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv(override=True)
+load_dotenv()  # system env var takes precedence over .env
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 INVESTMENT_AMOUNT = float(os.getenv("INVESTMENT_AMOUNT", "500"))

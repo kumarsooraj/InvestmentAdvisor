@@ -13,7 +13,6 @@ venv/
 env/
 
 # Data files (keep samples, ignore real portfolio data)
-data/reports/
 data/last_run.json
 data/portfolio.csv
 data/holdings.json
