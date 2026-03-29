@@ -1,0 +1,26 @@
+﻿,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Percent Of Account,Cost Basis Total,Average Cost Basis,Type
+,INDIVIDUAL,FCASH**,HELD IN FCASH,,,,$2.12 ,,,,,0.01%,,,Cash
+,INDIVIDUAL,AAPL,APPLE INC,1.098,$248.80 ,($4.09),$273.18 ,($4.50),-1.62%,($6.58),-2.36%,0.88%,$279.76 ,$254.79 ,Cash
+,INDIVIDUAL,AMZN,AMAZON.COM INC,44,$199.34 ,($8.20),"$8,770.96 ",($360.80),-3.96%,"($1,554.69)",-15.06%,28.13%,"$10,325.65 ",$234.67 ,Cash
+,INDIVIDUAL,CVX,CHEVRON CORP NEW COM,1.693,$211.15 ,$3.36 ,$357.47 ,$5.68 ,1.61%,$78.62 ,28.19%,1.15%,$278.85 ,$164.71 ,Cash
+,INDIVIDUAL,GOOGL,ALPHABET INC CAP STK CL A,2.733,$274.34 ,($6.58),$749.77 ,($17.99),-2.35%,$138.30 ,22.61%,2.40%,$611.47 ,$223.74 ,Cash
+,INDIVIDUAL,META,META PLATFORMS INC CLASS A COMMON STOCK,3.488,$525.72 ,($21.82),"$1,833.71 ",($76.11),-3.99%,($438.54),-19.30%,5.88%,"$2,272.25 ",$651.45 ,Cash
+,INDIVIDUAL,MSFT,MICROSOFT CORP,2.593,$356.77 ,($9.20),$925.10 ,($23.86),-2.52%,($141.53),-13.27%,2.97%,"$1,066.63 ",$411.35 ,Cash
+,INDIVIDUAL,MU,MICRON TECHNOLOGY INC,4.113,$357.07 ,$1.76 ,"$1,468.62 ",$7.23 ,0.49%,$472.84 ,47.48%,4.71%,$995.78 ,$242.11 ,Cash
+,INDIVIDUAL,NFLX,NETFLIX INC,19.349,$93.43 ,$0.11 ,"$1,807.77 ",$2.12 ,0.11%,($92.88),-4.89%,5.80%,"$1,900.65 ",$98.23 ,Cash
+,INDIVIDUAL,NVDA,NVIDIA CORPORATION COM,11.729,$167.52 ,($3.72),"$1,964.84 ",($43.64),-2.18%,$404.91 ,25.95%,6.30%,"$1,559.93 ",$133.00 ,Cash
+,INDIVIDUAL,PLTR,PALANTIR TECHNOLOGIES INC CL A,14.298,$143.06 ,($4.50),"$2,045.47 ",($64.35),-3.05%,$366.90 ,21.85%,6.56%,"$1,678.57 ",$117.40 ,Cash
+,INDIVIDUAL,QQQM,INVESCO EXCH TRADED FD TR II NASDAQ 100 ETF,7.807,$231.61 ,($4.60),"$1,808.17 ",($35.92),-1.95%,$200.76 ,12.49%,5.80%,"$1,607.41 ",$205.89 ,Cash
+,INDIVIDUAL,SBUX,STARBUCKS CORP COM USD0.001,4.263,$86.81 ,($4.41),$370.07 ,($18.80),-4.84%,($14.91),-3.88%,1.19%,$384.98 ,$90.31 ,Cash
+,INDIVIDUAL,SCHD,SCHWAB US DIVIDEND EQUITY ETF,46.094,$30.44 ,($0.18),"$1,403.10 ",($8.30),-0.59%,$144.31 ,11.46%,4.50%,"$1,258.79 ",$27.31 ,Cash
+,INDIVIDUAL,SLB,SLB LIMITED TRADING,7.048,$53.50 ,$1.19 ,$377.06 ,$8.38 ,2.27%,$52.40 ,16.14%,1.21%,$324.66 ,$46.06 ,Cash
+,INDIVIDUAL,SPY,STATE STREET SPDR S&P 500 ETF UNITS,6.983,$634.09 ,($11.00),"$4,427.85 ",($76.82),-1.71%,$286.46 ,6.91%,14.20%,"$4,141.39 ",$593.07 ,Cash
+,INDIVIDUAL,TSLA,TESLA INC COM,5.256,$361.83 ,($10.28),"$1,901.77 ",($54.04),-2.77%,$314.55 ,19.81%,6.10%,"$1,587.22 ",$301.98 ,Cash
+,INDIVIDUAL,WMT,WALMART INC COM,1.5,$122.89 ,$0.71 ,$184.33 ,$1.06 ,0.58%,$35.38 ,23.75%,0.59%,$148.95 ,$99.30 ,Cash
+,INDIVIDUAL,Pending activity,,,,,$509.00 ,,,,,,,,
+,,,,,,,,,,,,,,,
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security by Fidelity or any third party. Data and information shown is based on information known to Fidelity as of the date it was exported and is subject to change. It should not be used in place of your account statements or trade confirmations and is not intended for tax reporting purposes. For more information on the data included in this spreadsheet, including any limitations thereof, go to Fidelity.com.",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917. Custody and other services provided by National Financial Services LLC (NFS). Both are Fidelity Investment companies and members SIPC, NYSE. Neither FBS nor NFS offer crypto as a direct investment nor provide trading or custody services for such assets.",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Date downloaded Mar-28-2026 9:30 p.m ET,,,,,,,,,,,,,,,
