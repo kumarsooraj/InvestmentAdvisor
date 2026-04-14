@@ -1,0 +1,38 @@
+﻿Account Number,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Percent Of Account,Cost Basis Total,Average Cost Basis,Type
+Z21972779,INDIVIDUAL,FCASH**,HELD IN FCASH,,,,$1012.92,,,,,2.80%,,,Cash,
+Z21972779,INDIVIDUAL,AAPL,APPLE INC,1.098,$258.795,-$0.405,$284.15,-$0.45,-0.16%,+$4.39,+1.57%,0.79%,$279.76,$254.79,Cash,
+Z21972779,INDIVIDUAL,AMZN,AMAZON.COM INC,44,$250.13,+$10.24,$11005.72,+$450.56,+4.26%,+$680.07,+6.58%,30.45%,$10325.65,$234.67,Cash,
+Z21972779,INDIVIDUAL,BND,VANGUARD BD INDEX FDS TOTAL BND MRKT,1.703,$73.925,+$0.125,$125.89,-$0.01,-0.01%,-$0.01,-0.01%,0.35%,$125.90,$73.93,Cash,
+Z21972779,INDIVIDUAL,CVX,CHEVRON CORP NEW COM,1.693,$185.46,-$6.32,$313.98,-$10.70,-3.30%,+$35.13,+12.59%,0.87%,$278.85,$164.71,Cash,
+Z21972779,INDIVIDUAL,GOOGL,ALPHABET INC CAP STK CL A,2.733,$332.47,+$11.16,$908.64,+$30.50,+3.47%,+$297.17,+48.59%,2.51%,$611.47,$223.74,Cash,
+Z21972779,INDIVIDUAL,IWM,ISHARES RUSSELL 2000 ETF,0.418,$268.75,+$3.68,$112.33,+$0.01,+0.01%,+$0.01,+0.01%,0.31%,$112.32,$268.71,Cash,
+Z21972779,INDIVIDUAL,META,META PLATFORMS INC CLASS A COMMON STOCK,3.488,$663.81,+$29.28,$2315.36,+$102.12,+4.61%,+$43.11,+1.89%,6.41%,$2272.25,$651.45,Cash,
+Z21972779,INDIVIDUAL,MSFT,MICROSOFT CORP,3.232,$393.915,+$9.545,$1273.13,+$26.69,+2.14%,-$43.27,-3.29%,3.52%,$1316.40,$407.30,Cash,
+Z21972779,INDIVIDUAL,MU,MICRON TECHNOLOGY INC,4.113,$444.225,+$17.665,$1827.09,+$72.65,+4.14%,+$831.31,+83.48%,5.05%,$995.78,$242.11,Cash,
+Z21972779,INDIVIDUAL,NFLX,NETFLIX INC,19.349,$106.1264,+$2.9664,$2053.43,+$57.39,+2.87%,+$152.78,+8.03%,5.68%,$1900.65,$98.23,Cash,
+Z21972779,INDIVIDUAL,NVDA,NVIDIA CORPORATION COM,11.729,$194.63,+$5.32,$2282.81,+$62.39,+2.81%,+$722.88,+46.34%,6.32%,$1559.93,$133.00,Cash,
+Z21972779,INDIVIDUAL,PLTR,PALANTIR TECHNOLOGIES INC CL A,14.298,$136.77,+$4.40,$1955.53,+$62.91,+3.32%,+$276.96,+16.50%,5.41%,$1678.57,$117.40,Cash,
+Z21972779,INDIVIDUAL,QQQM,INVESCO EXCH TRADED FD TR II NASDAQ 100 ETF,7.807,$258.05,+$3.88,$2014.59,+$30.29,+1.52%,+$407.18,+25.33%,5.57%,$1607.41,$205.89,Cash,
+Z21972779,INDIVIDUAL,SBUX,STARBUCKS CORP COM USD0.001,4.263,$98.50,+$1.02,$419.90,+$4.34,+1.04%,+$34.92,+9.07%,1.16%,$384.98,$90.31,Cash,
+Z21972779,INDIVIDUAL,SCHD,SCHWAB US DIVIDEND EQUITY ETF,50.987,$30.655,-$0.085,$1563.00,-$3.92,-0.25%,+$154.22,+10.94%,4.32%,$1408.78,$27.63,Cash,
+Z21972779,INDIVIDUAL,SLB,SLB LIMITED TRADING,7.048,$51.36,-$0.56,$361.98,-$3.95,-1.08%,+$37.32,+11.49%,1.00%,$324.66,$46.06,Cash,
+Z21972779,INDIVIDUAL,SPY,STATE STREET SPDR S&P 500 ETF UNITS,6.983,$693.53,+$7.43,$4842.91,+$51.88,+1.08%,+$701.52,+16.93%,13.40%,$4141.39,$593.07,Cash,
+Z21972779,INDIVIDUAL,TSLA,TESLA INC COM,5.256,$366.335,+$13.915,$1925.45,+$73.13,+3.94%,+$338.23,+21.31%,5.33%,$1587.22,$301.98,Cash,
+Z21972779,INDIVIDUAL,VTI,VANGUARD INDEX FDS VANGUARD TOTAL STK MKT ETF,0.628,$342.35,+$3.68,$214.99,+$0.03,+0.01%,+$0.03,+0.01%,0.59%,$214.96,$342.29,Cash,
+Z21972779,INDIVIDUAL,VXUS,VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND,1.934,$82.685,+$0.795,$159.91,-$0.03,-0.02%,-$0.03,-0.02%,0.44%,$159.94,$82.70,Cash,
+Z21972779,INDIVIDUAL,WMT,WALMART INC COM,1.5,$124.40,-$0.17,$186.60,-$0.26,-0.14%,+$37.65,+25.27%,0.52%,$148.95,$99.30,Cash,
+Z21972779,INDIVIDUAL,Pending activity,,,,,-$1012.88,,,,,,,,,
+34061,AMAZON 401(K) PLAN,02315N865,VANGUARD TARGET 2060,67.933,$161.94,+$1.42,$11001.07,$0.00,0.00%,+$1456.57,+15.26%,100.00%,$9544.50,$140.50,,
+Y84257239,Sooraj's Roth IRA Fidelity Go,FLGXX**,HELD IN MONEY MARKET,,,,$15.61,,,,,1.35%,,,Cash,
+Y84257239,Sooraj's Roth IRA Fidelity Go,FDFIX,FIDELITY FLEX 500 INDEX FUND,20.97,$29.21,+$0.30,$612.53,$0.00,0.00%,+$64.42,+11.75%,53.02%,$548.11,$26.14,Cash,
+Y84257239,Sooraj's Roth IRA Fidelity Go,FIBUX,FIDELITY FLEX U.S. BOND INDEX FD,17.352,$9.20,+$0.02,$159.63,$0.00,0.00%,+$5.48,+3.56%,13.82%,$154.15,$8.88,Cash,
+Y84257239,Sooraj's Roth IRA Fidelity Go,FITFX,FIDELITY FLEX INTERNATIONAL INDEX,16.018,$18.24,+$0.16,$292.16,$0.00,0.00%,+$55.25,+23.32%,25.29%,$236.91,$14.79,Cash,
+Y84257239,Sooraj's Roth IRA Fidelity Go,FLAPX,FIDELITY FLEX MID CAP INDEX FUND,1.778,$23.45,+$0.32,$41.69,$0.00,0.00%,+$7.29,+21.20%,3.61%,$34.40,$19.35,Cash,
+Y84257239,Sooraj's Roth IRA Fidelity Go,FLXSX,FIDELITY FLEX SMALL CAP INDEX FUND,1.482,$19.37,+$0.37,$28.70,$0.00,0.00%,+$6.51,+29.36%,2.48%,$22.19,$14.97,Cash,
+Y84257239,Sooraj's Roth IRA Fidelity Go,Pending activity,,,,,$5.00,,,,,,,,,
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security by Fidelity or any third party. Data and information shown is based on information known to Fidelity as of the date it was exported and is subject to change. It should not be used in place of your account statements or trade confirmations and is not intended for tax reporting purposes. For more information on the data included in this spreadsheet, including any limitations thereof, go to Fidelity.com."
+
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917. Custody and other services provided by National Financial Services LLC (NFS). Both are Fidelity Investment companies and members SIPC, NYSE. Neither FBS nor NFS offer crypto as a direct investment nor provide trading or custody services for such assets."
+
+"Date downloaded Apr-14-2026 12:45 p.m ET"
